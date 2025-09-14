@@ -1,0 +1,10 @@
+{
+  "appName": "OceanGuardian",
+  "reportButton": "Submit Report",
+  "hazardType": "Hazard Type",
+  "dashboardTitle": "Live Hazard Map",
+  "socialFeed": "Social Media Feed",
+  "filterLocation": "Location",
+  "filterSource": "Source",
+  "offlineMode": "Save offline if no signal"
+}

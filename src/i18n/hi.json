@@ -1,0 +1,10 @@
+{
+  "appName": "ओशनगार्डियन",
+  "reportButton": "रिपोर्ट जमा करें",
+  "hazardType": "खतरे का प्रकार",
+  "dashboardTitle": "वास्तविक समय खतरा मानचित्र",
+  "socialFeed": "सामाजिक मीडिया फीड",
+  "filterLocation": "स्थान",
+  "filterSource": "स्रोत",
+  "offlineMode": "अगर संकेत न हो तो ऑफलाइन सहेजें"
+}
